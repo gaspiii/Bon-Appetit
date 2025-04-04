@@ -123,7 +123,7 @@ function Layout({ children }) {
             </li>
             <li className="flex items-center gap-2">
             <a
-                href="https://wa.me/56997795134"
+                href="https://wa.me/56986999317?text=%C2%A1Hola%21%20estoy%20interesado%20en%20tus%20servicios%20de%20sitios%20web!"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 hover:text-[#d96bf7] transition-all duration-300"
