@@ -13,7 +13,7 @@ export default function ContactSection() {
   
         <div className="mt-6">
         <a
-            href="https://wa.me/56997795134?text=%C2%A1Hola%21%20estoy%20interesado%20en%20sus%20productos%2C%20%C2%A1Tambi%C3%A9n%20hacen%20despachos%20dentro%20de%20la%20comuna%20gratis!"
+            href="https://wa.me/56986999317?text=%C2%A1Hola%21%20estoy%20interesado%20en%20tus%20servicios%20de%20sitios%20web!"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-3 text-lg font-bold text-white border-2 border-[#d96bf7] rounded-full 

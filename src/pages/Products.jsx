@@ -139,7 +139,7 @@ function Products() {
         if (redirectToWhatsApp) {
           // Crear mensaje temporal solo con este producto
           const tempMessage = `Hola, me gustaría hacer un despacho con el producto:%0A%0A-1x - ${product.name} ${formatPrice(product.price)}`;
-          window.open(`https://wa.me/56997795134?text=${tempMessage}`, '_blank');
+          window.open(`https://wa.me/56986999317?text=%C2%A1Hola%21%20estoy%20interesado%20en%20tus%20servicios%20de%20sitios%20web!`, '_blank');
         }
       };
     
@@ -277,7 +277,7 @@ function Products() {
                       Vaciar
                     </button>
                     <a
-                      href={`https://wa.me/56997795134?text=${generateWhatsAppMessage()}`}
+                      href={`https://wa.me/56986999317?text=%C2%A1Hola%21%20estoy%20interesado%20en%20tus%20servicios%20de%20sitios%20web!`}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="px-4 py-2 font-jost font-bold text-white bg-[#25D366] rounded-xl hover:bg-[#128C7E] transition-colors"
