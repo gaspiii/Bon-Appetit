@@ -11,8 +11,10 @@
     "start": "nodemon --watch src --exec vite"
   },
   "dependencies": {
+    "@emailjs/browser": "^4.4.1",
     "@react-google-maps/api": "^2.20.6",
     "@tailwindcss/postcss": "^4.1.1",
+    "emailjs-com": "^3.2.0",
     "lucide-react": "^0.487.0",
     "nodemon": "^3.1.9",
     "postcss": "^8.5.3",
